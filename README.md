@@ -1,6 +1,6 @@
 ## The Beholder
  
-#### This API informs you via SMS when the VK user you are looking for is online. The mechanic is similar to services provided by mobile operators via sending SMS "The number you called is available now".
+#### This API informs you via SMS when the VK user you are looking for is online. The mechanic is similar to services provided by mobile operators via sending SMS like "The number you called is available now".
 
 ***How does it work:***
 - Enter User ID of the VK user you are looking for
