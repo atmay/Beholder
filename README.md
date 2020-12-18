@@ -1,4 +1,4 @@
-## The Beholder
+## The Beholder  :ghost:
  
 #### This API informs you via SMS when the VK user you are looking for is online. The mechanic is similar to services provided by mobile operators via sending SMS like "The number you called is available now".
 
@@ -12,7 +12,7 @@
 - Twilio Cloud communications platform 
 
 
-## Наблюдатель
+## Наблюдатель  :ghost:
 
 #### Это API смс-сообщением сообщает юзеру, когда интересующий пользователь ВКонтакте появляется онлайн, то есть является неким аналогом сервиса, который предоставляют телефонные операторы - "Абонент снова в сети".
 
